@@ -1,0 +1,20 @@
+{
+    "name": "minor/slider-verify",
+    "description": "Slider validator",
+    "type": "library",
+    "require": {
+        "php": "^7.1",
+        "intervention/image": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "MinorOrange",
+            "email": "minororange@foxmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Minor\\Slide\\": "src/"
+        }
+    }
+}
