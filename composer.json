@@ -16,5 +16,11 @@
         "psr-4": {
             "Minor\\Slide\\": "src/"
         }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
     }
 }
